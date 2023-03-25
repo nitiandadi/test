@@ -16,3 +16,5 @@ class Animal{
         console.log(`Hello, I'm ${this.name} and I'm ${this.age} years old.`);
     }
 }
+let zhaofaji=new Person('zhaofaji', 18);
+zhaofaji.sayHello();
